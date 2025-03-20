@@ -32,3 +32,9 @@ Gpedit.msc
 Computer Configuration - Windows Settings - Security Settings - Local Policies - Security Options - Network Access: Do not allow storage of passwords
 Enabled
 ```
+
+```
+From the run/command prompt - Services.msc - locate and go to the properties of Web Account Manager and set it to disabled then stop it.
+
+
+```
