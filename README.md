@@ -26,3 +26,9 @@ adb reverse tcp:8081 tcp:8081
 ```
 rundll32.exe keymgr.dll,KRShowKeyMgr
 ```
+
+```
+Gpedit.msc
+Computer Configuration - Windows Settings - Security Settings - Local Policies - Security Options - Network Access: Do not allow storage of passwords
+Enabled
+```
